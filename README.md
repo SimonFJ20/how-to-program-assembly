@@ -176,4 +176,5 @@ add:
 
 1. [CPU Registers x86-64 - OSDev Wiki](https://wiki.osdev.org/CPU_Registers_x86-64)
 2. [Linux System Syscall Table (And calling convention) - ChromiumOS Docs](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/constants/syscalls.md) 
+3. [Compiler Explorer](https://godbolt.org/)
 
