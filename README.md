@@ -1,7 +1,7 @@
 
 # How to program assembly
 
-**Making fizzbuzz in x86_64-assembly**
+**Making fizzbuzz in x86-64 assembly, using C and NASM**
 
 ## Idea
 
