@@ -40,7 +40,7 @@ for i in range(1, 101):
 
 The C programming language is a decent middle ground between expressiveness and low-level transparency.
 
-```
+```c
 #include <stdio.h>
 
 void fizzbuzz(int n)
